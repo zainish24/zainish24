@@ -22,8 +22,6 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 ### 🌐 Web Development
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🎨 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,11 +38,10 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 
 ## 🌟 Featured Projects
 
-### 📚 [Flutter Bookstore App](https://github.com/zainish24/bookstore-app)
+### 📚 [Flutter Bookstore App](https://github.com/zainish24/bookstore_app)
 **Complete E-commerce Solution for Book Lovers**
 - **Tech:** Flutter, Dart, Firebase, Provider State Management
 - **Features:** User/Admin panels, Shopping Cart, Order Management, Reviews
-- **Live Demo:** [Bookstore App Demo](https://your-demo-link.com)
 - **Status:** ✅ Production Ready
 
 ### 🎯 [AspireEdge - Career Passport](https://github.com/zainish24/aspire-edge-career-app)
@@ -53,13 +50,13 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 - **Features:** Career Assessment, Resource Library, Profile Management
 - **Status:** ✅ Completed
 
-### 🍽️ [Online Catering System](https://github.com/zainish24/online-catering)
+### 🍽️ [Online Catering System](https://github.com/zainish24/caterly-mvc-webapp)
 **ASP.NET Core Web Application**
 - **Tech:** ASP.NET Core MVC, C#, SQL Server, Entity Framework
 - **Features:** Booking System, Messaging, Admin Dashboard
 - **Status:** ✅ Completed
 
-### 💎 [Pascal Jewelry Website](https://github.com/zainish24/pascal-jewelry)
+### 💎 [Pascal Jewelry Website](https://github.com/zainish24/pascal-jewelry-frontend)
 **Elegant E-commerce Frontend**
 - **Tech:** HTML5, CSS3, JavaScript, Bootstrap, jQuery
 - **Features:** Responsive Design, Product Catalog, Contact Forms
