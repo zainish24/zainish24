@@ -2,10 +2,8 @@
 
 **Aspiring Mobile Application Developer | Flutter Specialist | Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zainish-qureshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zainish-qureshi-0a7729267)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:zainishqureshi24@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://zainish-qureshi.netlify.app)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-success?style=for-the-badge&logo=whatsapp)](https://wa.me/923352911193)
 
 ## 🚀 About Me
 
