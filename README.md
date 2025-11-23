@@ -86,8 +86,7 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 ## 📫 Let's Connect!
 
 - **📧 Email:** [zainishqureshi24@gmail.com](mailto:zainishqureshi24@gmail.com)
-- **💼 LinkedIn:** [Zainish Qureshi](https://linkedin.com/in/zainish-qureshi)
-- **🌐 Portfolio:** [zainish-qureshi.netlify.app](https://zainish-qureshi.netlify.app)
+- **💼 LinkedIn:** [Zainish Qureshi](https://linkedin.com/in/zainish-qureshi-0a7729267)
 
 ## 📝 Currently Learning
 
