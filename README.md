@@ -88,7 +88,6 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 ## 📫 Let's Connect!
 
 - **📧 Email:** [zainishqureshi24@gmail.com](mailto:zainishqureshi24@gmail.com)
-- **📱 Phone:** +92 335 2911193
 - **💼 LinkedIn:** [Zainish Qureshi](https://linkedin.com/in/zainish-qureshi)
 - **🌐 Portfolio:** [zainish-qureshi.netlify.app](https://zainish-qureshi.netlify.app)
 
