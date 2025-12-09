@@ -2,8 +2,9 @@
 
 **Aspiring Mobile Application Developer | Flutter Specialist | Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zainish-qureshi-0a7729267)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:zainishqureshi24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainish-qureshi-0a7729267)
+[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainishqureshi24@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zainish24)
 
 ## 🚀 About Me
 
@@ -20,13 +21,13 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 ### 🌐 Web Development
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🎨 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -35,6 +36,13 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 Featured Projects
+
+### 🏗️ [Contractor Bidding Dashboard](https://github.com/zainish24/contractor-bidding-dashboard)
+**ASP.NET MVC Web Application for Construction Bids**
+- **Tech:** ASP.NET Core MVC, C#, SQL Server, Entity Framework, JWT Auth
+- **Features:** Secure contractor authentication, bid calculation, job management, responsive dashboard
+- **Status:** ✅ Completed
+- **Highlights:** Multi-role system, secure bidding logic, professional contractor interface
 
 ### 📚 [Flutter Bookstore App](https://github.com/zainish24/bookstore_app)
 **Complete E-commerce Solution for Book Lovers**
@@ -60,18 +68,6 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 - **Features:** Responsive Design, Product Catalog, Contact Forms
 - **Status:** ✅ Completed
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Zainish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainish24&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainish24&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainish24&theme=radical&hide_border=true)
-
-</div>
-
 ## 🎓 Education
 
 **Aptech Computer Education** | Karachi, Pakistan  
@@ -87,20 +83,22 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 
 - **📧 Email:** [zainishqureshi24@gmail.com](mailto:zainishqureshi24@gmail.com)
 - **💼 LinkedIn:** [Zainish Qureshi](https://linkedin.com/in/zainish-qureshi-0a7729267)
+- **💻 GitHub:** [zainish24](https://github.com/zainish24)
 
 ## 📝 Currently Learning
-
-- 🔥 Advanced Flutter Animations
-- ☁️ Microsoft Azure Services
-- 🤖 AI/ML Integration in Mobile Apps
+- 🔥 Advanced Flutter Animations & State Management
+- ☁️ Microsoft Azure Cloud Services
 - 🐳 Docker & Containerization
+- ⚡ Performance Optimization for Mobile Apps
 
 ---
 
 <div align="center">
 
-### ⭐️ "Code is poetry, and every app tells a story."
+### 💡 **"Transforming ideas into elegant code solutions"**
 
-**Thanks for visiting my profile! Let's build something amazing together!** 🚀
+**Open to collaboration and new opportunities!** 🚀
+
+📊 **Repository Stats:** 6+ Projects | 1000+ Lines of Code | 4+ Technologies Mastered
 
 </div>
