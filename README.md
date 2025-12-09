@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zainish Qureshi
 
-**Aspiring Mobile Application Developer | Flutter Specialist | Full-Stack Developer**
+**Aspiring Web & Mobile Application Developer | Flutter & .NET Specialist | Full-Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainish-qureshi-0a7729267)
 [![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainishqureshi24@gmail.com)
