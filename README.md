@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zainish Qureshi
 
-**Aspiring Web & Mobile Application Developer | Flutter & .NET Specialist | Full-Stack Developer**
+**Aspiring Web & Mobile Application Developer | .NET MVC Specialist | Full-Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainish-qureshi-0a7729267)
 [![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainishqureshi24@gmail.com)
@@ -37,7 +37,7 @@ A passionate **Software Engineering student** with expertise in **Flutter mobile
 
 ## 🌟 Featured Projects
 
-### 🏗️ [Contractor Bidding Dashboard](https://github.com/zainish24/contractor-bidding-dashboard)
+### 🏗️ [Contractor Bidding Dashboard](https://github.com/zainish24/contractorbid-mvc-web-app)
 **ASP.NET MVC Web Application for Construction Bids**
 - **Tech:** ASP.NET Core MVC, C#, SQL Server, Entity Framework, JWT Auth
 - **Features:** Secure contractor authentication, bid calculation, job management, responsive dashboard
